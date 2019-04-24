@@ -1,0 +1,13 @@
+var analysisColors = [ "AFD8F8", "F6BD0F", "8BBA00", "AFD8F8", "F6BD0F",
+		"8BBA00", "FF8E46", "008E8E", "D64646", "8E468E", "588526", "B3AA00",
+		"008ED6", "9D080D", "A186BE", "B9B9FF", "d0d0d0", "ff7575", "ffaad5",
+		"ffa6ff", "d3a4ff", "6A6AFF", "2894FF", "00FFFF", "1AFD9C", "28FF28",
+		"7D7DFF", "46A3FF", "B9B9FF", "AFD8F8", "F6BD0F", "8BBA00", "AFD8F8",
+		"F6BD0F", "8BBA00", "FF8E46", "008E8E", "D64646", "8E468E", "588526",
+		"B3AA00", "008ED6", "9D080D", "A186BE", "B9B9FF", "d0d0d0", "ff7575",
+		"ffaad5", "ffa6ff", "d3a4ff", "6A6AFF", "2894FF", "00FFFF", "1AFD9C",
+		"28FF28", "7D7DFF", "46A3FF", "B9B9FF", "AFD8F8", "F6BD0F", "8BBA00",
+		"AFD8F8", "F6BD0F", "8BBA00", "FF8E46", "008E8E", "D64646", "8E468E",
+		"588526", "B3AA00", "008ED6", "9D080D", "A186BE", "B9B9FF", "d0d0d0",
+		"ff7575", "ffaad5", "ffa6ff", "d3a4ff", "6A6AFF", "2894FF", "00FFFF",
+		"1AFD9C", "28FF28", "7D7DFF", "46A3FF", "B9B9FF" ];
